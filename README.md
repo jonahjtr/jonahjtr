@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-self taught    -->    freelance    -->    full time building software from scratch (MSY Apparel)   -->    wanted enterprise job   -->   bootcamp (helps get specific jobs)   -->    helping non-profit (human first)   -->   looking for bigger company, more enterprise job.
+self taught -->   bootcamp   -->    helping non-profit (human first)   -->   looking for software engineering position
 
 - 🔭 I’m currently working on a non-profit called "Human Rights First"
 - 🌱 I’m currently learning GraphQL and MongoDB
